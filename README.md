@@ -1,6 +1,6 @@
 # Git Kata on top of Tennis Refactoring Kata
 
-Imagine your have been working on this code and you have been doing multiple commits "for you". The sequence of commits as it is it's hard to understand by anyone else, so you have decided to clean your commits before pushing.
+Imagine your have been working on this code and you have been doing multiple commits "for you" in Tennis1.js. The sequence of commits as it is it's hard to understand by anyone else, so you have decided to clean your commits before pushing.
 
 ## One last thing
 Before cleaning up your commits, you realized you'd like to add one minor improvement:
@@ -115,3 +115,6 @@ Here is a description of the problem this code is designed to solve: [Tennis Kat
 * Did you ever make any refactoring mistakes and then back out your changes? How did it feel to throw away code?
 * What would you say to your colleague if they had written this code?
 * What would you say to your boss about the value of this refactoring work? Was there more reason to do it over and above the extra billable hour or so?
+
+
+Credits: Kata created while working for [Volcanic Internet](https://volcanicinternet.com/en/).
